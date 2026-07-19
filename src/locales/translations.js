@@ -2,8 +2,8 @@ export const translations = {
   fa: {
     hero: {
       greeting: "سلام، من",
-      name: "افسانه میرزایی",             // اضافه شد به بخش فارسی
-      nameEn: "Afsana Mirzaei",           // اضافه شد به بخش فارسی
+      name: "فرخنده حسینی",             // اضافه شد به بخش فارسی
+      nameEn: "Farkhunda Hussaini",           // اضافه شد به بخش فارسی
       role: "توسعه‌دهنده فرانت‌اند هستم",
       sub: "من با استفاده از React و Tailwind CSS وب‌سایت‌های مدرن و سریع خلق می‌کنم.",
       cvBtn: "دانلود رزومه",
@@ -12,18 +12,18 @@ export const translations = {
     about: {
       title: "درباره من",
       storyTitle: "مسیر حرفه‌ای من",
-      storyParagraph: "من افسانه میرزایی، تیم لیدر حوزه فرانت‌اند هستم و فعالیت حرفه‌ای خود را در زمینه توسعه وب از سال ۲۰۲۵ آغاز کرده‌ام. در حال حاضر دانشجوی رشته علوم کامپیوتر (Computer Science) در دانشگاه آنلاین زن هستم و دوره تخصصی توسعه فرانت‌اند را در UCA (SPCE–Kabul) با موفقیت به پایان رسانده‌ام. پس از گذراندن یک دوره کارآموزی موفق در شرکت BTB و مشارکت در توسعه پروژه‌های بزرگ و واقعی، اکنون مسئولیت رهبری تیم فرانت‌اند این مجموعه را بر عهده دارم. تخصص اصلی من خلق رابط‌های کاربری مدرن با React، JavaScript، Tailwind CSS و Bootstrap است. همواره با تمرکز بر بهینه‌سازی عملکرد، اصول کدهای تمیز و ساختارهای مقیاس‌پذیر فعالیت می‌کنم و در حال حاضر در حال گسترش دانش خود در حوزه Back-End برای تبدیل شدن به یک توسعه‌دهنده Full-Stack هستم.",
+      storyParagraph: "من فرخنده حسینی، توسعه‌دهنده فرانت‌اند هستم و فعالیت خود را در زمینه توسعه وب آغاز کرده‌ام. در حال حاضر دانشجوی علوم کامپیوتر و زبان انگلیسی در انجمن دانشجویان هزاره هند هستم و همچنین در حوزه رسمی شرکت BTB مشغول به گذراندن دوره کارآموزی می‌باشم. تخصص اصلی من خلق رابط‌های کاربری مدرن و پویا با استفاده از React، JavaScript و Tailwind CSS است. همواره با تمرکز بر اصول کدهای تمیز، طراحی کاملاً ریسپانسیو و ساختارهای ماژولار در ریکت فعالیت می‌کنم. این پورتفولیو پراجکت حاصل تلاش‌های من در طول این سمستر برای پیاده‌سازی یک برنامه واقعی و کاربردی است و هم‌زمان در حال گسترش مهارت‌های زبانی و فنی خود برای ورود به دنیای حرفه‌ای هستم.",
       
       // کارت‌های آمار بخش فارسی
       stat1Number: "+۱",
       stat1Title: "سال فعالیت و یادگیری",
-      stat2Number: "+۵",
-      stat2Title: "پروژه توسعه و مدیریت",
-      stat3Number: "+۲",
-      stat3Title: "گواهینامه معتبر"
+      stat2Number: "+۴",
+      stat2Title: "پروژه کلاسی و تمرینی",
+      stat3Number: "+۱",
+      stat3Title: "پروژه نهایی سمستر"
     },
     skills: {
-        title: "مهارت‌های فنی و مدیریتی",
+        title: "مهارت‌های فنی و توسعه",
         subtitle: "میزان تسلط من بر تکنولوژی‌ها و ابزارهای توسعه",
         importSection: "لیست تخصص‌ها",
         radarSection: "نمودار عقربه‌ای میزان تسلط",
@@ -31,15 +31,15 @@ export const translations = {
         clickTip: "برای مشاهده جزئیات بیشتر، روی هر مهارت کلیک کنید.",
         
       // توضیحات لاگ برای مهارت‌ها
-      html_desc: "[موفق] پیاده‌سازی بیش از ۱۵ ساختار استاندارد و بهینه وب.",
-      tailwind_desc: "[موفق] پیاده‌سازی کامپوننت‌های کاملاً ریسپانسیو و تم‌های داینامیک.",
-      js_desc: "[اطلاعات] تسلط بر مفاهیم پایه و اصول منطقی برنامه نویسی.",
-      git_desc: "[موفق] مدیریت ریپازیتوری‌ها، برنچ‌ها و ریلیزهای تیمی.",
-      react_desc: "[اطلاعات] توسعه کامپوننت‌های ماژولار و مدیریت روت‌های SPA.",
-      arch_desc: "[ویژه] طراحی معماری مقیاس‌پذیر و اصول کدهای تمیز فرانت‌آند.",
-      lead_desc: "[ویژه] هدایت تیم فنی، کد ریویو و منتورینگ اعضای جدید.",
-      next_desc: "[در حال اجرا] گسترش دانش جهت حرکت به سمت Full-Stack Development."
-    },    
+      html_desc: "[موفق] پیاده‌سازی ساختارهای استاندارد، سمنتیک و بهینه وب.",
+      tailwind_desc: "[موفق] پیاده‌سازی کامپوننت‌های کاملاً ریسپانسیو و استایل‌دهی مدرن UI.",
+      js_desc: "[اطلاعات] تسلط بر مفاهیم پایه، ES6+ و اصول منطقی برنامه نویسی جاوااسکریپت.",
+      git_desc: "[موفق] مدیریت ریپازیتوری‌های شخصی در گیت‌هاب و کنترل ورژن کدهای پروژه.",
+      react_desc: "[اطلاعات] توسعه کامپوننت‌های ماژولار، مدیریت Stateها و روت‌های SPA در این پروژه.",
+      arch_desc: "[ویژه] پیاده‌سازی ساختار منظم پوشه‌بندی و اصول کدهای تمیز در فرانت‌آند.",
+      lead_desc: "[ویژه] توانایی حل مسئله، داکیومنت‌نویسی پروژه و سرچ پیشرفته خطاها.",
+      next_desc: "[در حال اجرا] گسترش دانش جهت یادگیری فریم‌ورک‌ها و تکنولوژی‌های پیشرفته‌تر."
+    },
     projects: {
       title: "نمایشگاه پروژه‌ها",
       subtitle: "مجموعه‌ای از فعالیت‌های تجاری، مدیریت تیم و تجربه‌های آزمایشگاهی من",
@@ -68,7 +68,7 @@ export const translations = {
 
       dorna_title: "وب‌سایت شرکت درنا میدیا",
       dorna_desc: "پروژه در حال توسعه معرفی شرکت و راه‌اندازی بستر ارتباطی مدرن با مشتریان و متقاضیان.",
-      dorna_role: "مدیریت پروژه و طراحی بیس (Base)",
+      dorna_role: "عوضویت در گروه تیمی",
 
       luxura_title: "کاتالوگ فروش آنلاین لوکسورا",
       luxura_desc: "پروژه در حال ساخت کاتالوگ مدرن فشن و مد. طراحی صفر تا صد ساختار و دیزاین سیستم اصلی.",
@@ -156,8 +156,8 @@ export const translations = {
   en: {
     hero: {
       greeting: "Hi, I'm",                // اصلاح شد به انگلیسی
-      name: "  افسانه میرزایی هستم", 
-      nameEn: "Afsana Mirzaei",           
+      name: "  فرخنده حسینی هستم", 
+      nameEn: "Farkhunda Hussaini",           
       role: "Frontend Developer",
       sub: "I craft modern and fast web applications using React and Tailwind CSS.", // اصلاح شد به انگلیسی
       cvBtn: "Download CV",
@@ -166,33 +166,33 @@ export const translations = {
     about: {
       title: "About Me",
       storyTitle: "My Professional Journey",
-      storyParagraph: "I am Afsana Mirzaei, a Frontend Team Lead who began my professional web development journey in 2025. I am currently pursuing a degree in Computer Science at Women Online University and have successfully completed the Frontend Development program at UCA (SPCE–Kabul). Following a successful internship at BTB, where I contributed directly to live, production-grade projects, I was promoted to lead the frontend development team. My core expertise lies in building advanced user interfaces using React, JavaScript, Tailwind CSS, and Bootstrap. I am highly focused on performance optimization, clean code architecture, and scalable applications. Driven by continuous learning, I am currently expanding my skills into Back-End Development to transition into a Full-Stack Developer role.",
+      storyParagraph: "I am Farkhunda Hussaini, a Frontend Developer passionate about building modern web applications. I am currently pursuing my studies in Computer Science and English at the Hazara Students' Association of India, and I am also actively gaining hands-on industry experience as an intern at BTB. My core expertise lies in building advanced user interfaces using React, JavaScript, and Tailwind CSS. I am highly focused on clean code architecture, responsive design, and component-based structures in React. This portfolio project represents my dedication throughout this semester to delivering a clean, functional web application, and I am continuously expanding my technical and language skills for my professional growth.",
       
       // کارت‌های آمار بخش انگلیسی
       stat1Number: "+1",
       stat1Title: "Years of Coding",
-      stat2Number: "+5",
-      stat2Title: "Developed & Led Projects",
-      stat3Number: "+2",
-      stat3Title: "Valid Certificates"
+      stat2Number: "+4",
+      stat2Title: "Class Projects",
+      stat3Number: "+1",
+      stat3Title: "Semester Project"
     },
     skills: {
       title: "Skills & Expertise",
       subtitle: "My level of mastery over technologies and development tools",
       importSection: "List of Expertise",
       radarSection: "Mastery Level Gauge",
-      logSection: "Work Experience Summary",
+      logSection: "Development Experience Summary",
       clickTip: "Click on any skill to view more details.",
       
       // Log descriptions
-      html_desc: "[SUCCESS] Implemented 15+ semantic and optimized web structures.",
-      tailwind_desc: "[SUCCESS] Developed highly responsive UI systems and dynamic themes.",
-      js_desc: "[INFO] Mastery over vanilla core concepts and programming logic.",
-      git_desc: "[SUCCESS] Managing repositories, branches, and team release workflows.",
-      react_desc: "[INFO] Building modular component architecture and dynamic SPA routing.",
-      arch_desc: "[SPECIAL] Designing scalable architecture and clean code principles.",
-      lead_desc: "[SPECIAL] Driving technical decisions, code reviews, and team mentoring.",
-      next_desc: "[EXECUTING] Expanding full-stack knowledge and server-side ecosystems."
+      html_desc: "[SUCCESS] Implemented semantic and optimized web structures.",
+      tailwind_desc: "[SUCCESS] Developed highly responsive UI systems and modern layouts.",
+      js_desc: "[INFO] Good understanding of ES6+ concepts and core programming logic.",
+      git_desc: "[SUCCESS] Managing repositories, branches, and personal GitHub workflows.",
+      react_desc: "[INFO] Building modular component architecture and managing SPA states.",
+      arch_desc: "[SPECIAL] Focusing on clean directory structures and clean code principles.",
+      lead_desc: "[SPECIAL] Strong problem-solving, project documentation, and advanced debugging skills.",
+      next_desc: "[EXECUTING] Expanding knowledge to learn advanced frameworks and tools."
     },    
     projects: {
       title: "Project Showcase",

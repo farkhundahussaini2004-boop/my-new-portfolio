@@ -7,12 +7,12 @@ export default function Contact({ lang, t, isDark }) {
   const [copiedId, setCopiedId] = useState(null);
 
   const contactData = [
-    { id: "email", name: t.contact.email, value: "afsanamirzaei9@gmail.com", icon: Mail, color: "#a855f7", isCopy: true },
-    { id: "phone", name: t.contact.phone, value: "+93766923552", icon: Phone, color: "#06b6d4", isCopy: true },
+    { id: "email", name: t.contact.email, value: "farkhundahussaini2004@gmail.com", icon: Mail, color: "#a855f7", isCopy: true },
+    { id: "phone", name: t.contact.phone, value: "+93773724086", icon: Phone, color: "#06b6d4", isCopy: true },
     { id: "linkedin", name: t.contact.linkedin, value: "https://www.linkedin.com/in/afsana-mirzaei-764bb33a7?trk=contact-info", icon: Network, color: "#3b82f6", isLink: true },
-    { id: "whatsapp", name: t.contact.whatsapp, value: "https://wa.me/qr/JGU4QJARRK5EO1", icon: MessageSquare, color: "#10b981", isLink: true },
-    { id: "instagram", name: t.contact.instagram, value: "https://instagram.com/bj172119", icon: Camera, color: "#ec4899", isLink: true },
-    { id: "github", name: t.contact.github, value: "https://github.com/afsanamirzaei9-maker", icon: GitBranch, color: "#94a3b8", isLink: true }
+    { id: "whatsapp", name: t.contact.whatsapp, value: "https://wa.me/message/GGV5U5NJB5W3J1", icon: MessageSquare, color: "#10b981", isLink: true },
+    { id: "instagram", name: t.contact.instagram, value: "https://www.instagram.com/farkhunde_ana_2004?igsh=MTQ1MGFoM3F2ZW00aA%3D%3D&utm_source=qr", icon: Camera, color: "#ec4899", isLink: true },
+    { id: "github", name: t.contact.github, value: "https://github.com/farkhundahussaini2004-boop", icon: GitBranch, color: "#94a3b8", isLink: true }
   ];
 
   const handleCopy = (text, id) => {

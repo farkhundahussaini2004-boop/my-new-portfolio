@@ -1,6 +1,6 @@
-import cert1Img from '../assets/images/certi-1.webp';
-import cert2Img from '../assets/images/certi-1.webp';
-import cert3Img from '../assets/images/certi-1.webp';
+import cert1Img from '../assets/images/Frkhunda.png';
+import cert2Img from '../assets/images/Frkhunda.png';
+import cert3Img from '../assets/images/Frkhunda.png';
 
 
 export const getCertificatesStructure = (t) => [

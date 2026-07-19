@@ -15,7 +15,7 @@ export default function Skills({ lang, t, isDark }) {
     { id: "git", name: "Git & GitHub", level: 70, package: "devops-tools", icon: GitBranch, color: "#94a3b8", desc: t.skills.git_desc },
     { id: "react", name: "React.js", level: 50, package: "frontend-framework", icon: FileCode, color: "#3b82f6", desc: t.skills.react_desc },
     { id: "arch", name: "Project Architecture", level: 60, package: "afsana-lead-core", icon: Network, color: "#a855f7", desc: t.skills.arch_desc },
-    { id: "lead", name: "Tech Lead & Mentoring", level: 70, package: "afsana-lead-core", icon: Users, color: "#10b981", desc: t.skills.lead_desc },
+    { id: "lead", name: "Tech Lead & Mentoring", level: 20, package: "afsana-lead-core", icon: Users, color: "#10b981", desc: t.skills.lead_desc },
     { id: "next", name: "Next.js (Learning)", level: 0, package: "next-evolution", icon: Milestone, color: "#d946ef", desc: t.skills.next_desc },
   ];
 
